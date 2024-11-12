@@ -79,3 +79,48 @@ print("Olá")
 
 > Mais detalhes sobre Markdown  
 [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/)
+
+## Titulo 2
+
+### Habilidades
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
+<!--
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg)
+
+
+### Texto
+<i class="devicon-azure-plain-wordmark colored"></i>
+   -->       
+
+<img src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="70px">
+<img src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="70px">  
+<img src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px">
+<img src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px">
+
+        
+> Referência  
+[Devicon.dev](https://devicon.dev/)
+
+
+## GitHub Status
+
+![Meu's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericoRosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericoRosa&show_icons=true&theme=onedark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericoRosa&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredericoRosa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoRosa&layout=compact&theme=dark)
+
+> Referência  
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
